@@ -1,16 +1,34 @@
-### Hi there 👋
+My name is Amin Sakha
+===============================
 
-<!--
-**aminsakha/aminsakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer
+-----------------------------
 
-Here are some ideas to get you started:
+*   🚀  I'm currently working at Incubator of Shahid Beheshti University
+*   🤝  I'm open to collaborating on interesting projects as an android developer
+                  
+### Skills
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+</p>
+                    
+### Socials
+                  
+<p align="left">
+    <a href="https://www.instagram.com/_aminmas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/aminsakha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Badges
+
+<b>Top level Languages</b>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminsakha&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+<b>programming spent time</b>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aminsakha)](https://github.com/anuraghazra/github-readme-stats)
+  
+<b>My Status</b>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminsakha&show_icons=true&theme=radical)
