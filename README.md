@@ -27,7 +27,7 @@ Mobile Developer
 
 <b>programming spent time</b>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aminsakha)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@898ee003-2636-4b76-b420-4528f533d017"><img src="https://wakatime.com/badge/user/898ee003-2636-4b76-b420-4528f533d017.svg" alt="Total time coded since Nov 7 2020" /></a>
   
 <b>My Status</b>
 
