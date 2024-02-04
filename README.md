@@ -4,8 +4,8 @@ My name is Amin Sakha
 Mobile Developer
 -----------------------------
 
-*   🚀  I'm currently working at Incubator of Shahid Beheshti University
-*   🤝  I'm open to collaborating on interesting projects as an android developer
+*   🚀  I'm currently working as a self-employed Android developer
+*   🤝  I'm open to collaborating on interesting projects as an Android developer
                   
 ### Skills
 <p align="left">
